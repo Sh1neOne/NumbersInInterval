@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersInInterval", "NubbersInInterval\NumbersInInterval.csproj", "{A4D5180A-8643-4122-A2A5-85F9CC2FDA56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyMatrices", "MultiplyMatrices\MultiplyMatrices.csproj", "{B4DC2834-7659-40EB-A340-1F9E4D5767EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4D5180A-8643-4122-A2A5-85F9CC2FDA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D5180A-8643-4122-A2A5-85F9CC2FDA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D5180A-8643-4122-A2A5-85F9CC2FDA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D5180A-8643-4122-A2A5-85F9CC2FDA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DC2834-7659-40EB-A340-1F9E4D5767EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DC2834-7659-40EB-A340-1F9E4D5767EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DC2834-7659-40EB-A340-1F9E4D5767EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DC2834-7659-40EB-A340-1F9E4D5767EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24F196FA-8C59-4EE1-8D2E-0F69D0FBCB2A}
+	EndGlobalSection
+EndGlobal
